@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#Intro">Introdução</a>  |  
-    <a href="#Heurísticas">Heurísticas no Dia-Dia</a> 
+    <a href="#Heurísticas">Exemplo de Heurísticas</a> 
 </p>
 
 <span id="Intro">
@@ -17,7 +17,7 @@ O Intuito dessa atividade consiste em mostrar de forma visual alguns dos acertos
   
 <span id="Heurísticas">
 
-## :heavy_check_mark: Usabilidades Positivas
+## :heavy_check_mark: Exemplo de Heurísticas
   
 ### Visibilidade do status do sistema
 Um design agradável sempre prioriza a apresentação de informações claras e em tempo real para os usuários, mostrando a eles onde estão e quais caminhos podem seguir dentro da aplicação. Sendo assim, ao incorporar uma barra de progresso durante o processo de compra, é possível mostrar aos clientes os passos que eles já concluíram ou ainda precisam realizar para finalizar o pagamento.
@@ -58,5 +58,14 @@ Por outro lado, a consistência interna ocorre quando um único sistema ou uma f
  </div>
     
 ### Prevenção de erros 
- 
+O design desempenha um papel fundamental em ajudar a prevenir frustrações para os usuários, uma vez que eles podem cometer erros ao tentarem acessar determinados pontos do sistema. Ao criar interfaces intuitivas e organizadas, o design pode facilitar a localização e a compreensão das funcionalidades desejadas, reduzindo a probabilidade de deslizes e aumentando a experiência do usuário. 
+
+Neste exemplo, podemos observar um problema na busca por produtos de tênis "Lebron" no site oficial da Nike. Quando uma pesquisa é realizada com uma grafia incorreta, o site não apresenta resultados semelhantes para auxiliar o usuário e, além disso, quando a busca é finalizada não retorna os produtos desejados ou semelhantes.
+    
+![Nike](https://github.com/wallacefelipe21/Bertoti/assets/92696799/f0a0e45a-94d5-4a18-8a65-75f99d424686)
+
+Diferentemente do site da ArtWalk, ao realizar uma busca com uma grafia incorreta, ele oferece uma lista de sugestões de produtos relacionados.
+    
+![Artwalk](https://github.com/wallacefelipe21/Bertoti/assets/92696799/9e144e8c-f355-4acd-b117-56ccdff33cea)
+
 → [Voltar ao topo](#topo)
