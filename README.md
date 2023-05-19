@@ -17,7 +17,7 @@ O Intuito dessa atividade consiste em mostrar de forma visual alguns dos acertos
   
 <span id="Heurísticas">
 
-## :heavy_check_mark: Exemplo de Heurísticas
+## :desktop_computer: Exemplo de Heurísticas
   
 ### Visibilidade do status do sistema
 Um design agradável sempre prioriza a apresentação de informações claras e em tempo real para os usuários, mostrando a eles onde estão e quais caminhos podem seguir dentro da aplicação. Sendo assim, ao incorporar uma barra de progresso durante o processo de compra, é possível mostrar aos clientes os passos que eles já concluíram ou ainda precisam realizar para finalizar o pagamento.
