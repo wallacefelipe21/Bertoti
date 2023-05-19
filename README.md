@@ -47,7 +47,9 @@ A consistência externa refere-se ao uso de padrões estabelecidos por diferente
  <br>  
  </div>
     
-Por outro lado, a consistência interna ocorre quando um único sistema ou uma família/empresa de sistemas mantém similaridades em sua interface e comportamento. Nesse caso, os usuários se beneficiam ao encontrar elementos de design, fluxos de trabalho e interações semelhantes dentro do próprio sistema ou entre os sistemas relacionados da mesma família/empresa. Neste exemplo, temos o Google Planilhas e o Google Docs, ambos são produtos da Google e pertencem à mesma família de aplicativos. É evidente a similaridade no design dessas ferramentas, com muito poucas diferenças significativas. Essa abordagem de design consistente permite que os usuários reutilizem o conhecimento e a familiaridade que adquiriram ao utilizar uma das ferramentas ao trabalhar com a outra.
+Por outro lado, a consistência interna ocorre quando um único sistema ou uma família/empresa de sistemas mantém similaridades em sua interface e comportamento. Nesse caso, os usuários se beneficiam ao encontrar elementos de design, fluxos de trabalho e interações semelhantes dentro do próprio sistema ou entre os sistemas relacionados da mesma família/empresa. 
+    
+Neste exemplo, temos o Google Planilhas e o Google Docs, ambos são produtos da Google e pertencem à mesma família de aplicativos. É evidente a similaridade no design dessas ferramentas, com muito poucas diferenças significativas. Essa abordagem de design consistente permite que os usuários reutilizem o conhecimento e a familiaridade que adquiriram ao utilizar uma das ferramentas ao trabalhar com a outra.
 
 <div align="center">   
     
@@ -67,5 +69,21 @@ Neste exemplo, podemos observar um problema na busca por produtos de tênis "Leb
 Diferentemente do site da ArtWalk, ao realizar uma busca com uma grafia incorreta, ele oferece uma lista de sugestões de produtos relacionados.
     
 ![Artwalk](https://github.com/wallacefelipe21/Bertoti/assets/92696799/9e144e8c-f355-4acd-b117-56ccdff33cea)
+
+### Ajuda e documentação
+Por mais simples que um sistema possa ser, na era da globalização da internet, é crucial criar recursos que ajudem e alcancem o maior número possível de usuários. Um exemplo disso é o centro de ajuda da Google para seus produtos, incluindo o Google Docs. Esse centro de ajuda abrange uma ampla gama de tutoriais e materiais, atendendo tanto aos usuários iniciantes quanto àqueles que desejam explorar recursos avançados.
+ 
+![GoogleAjuda](https://github.com/wallacefelipe21/Bertoti/assets/92696799/fe27ae38-5f44-4cf7-ae0c-fa1b31bbed96) 
+
+### Design estético e minimalista
+Um design estético e minimalista desempenha um papel crucial ao prender a atenção dos usuários, ao mostrar apenas as informações principais e indispensáveis. Isso garante que o foco do usuário seja direcionado para o que é essencial, evitando distrações desnecessárias. Com um design limpo e simplificado, é possível criar uma experiência visualmente agradável e eficiente, permitindo que os usuários se concentrem no conteúdo e nas funcionalidades mais importantes.
+
+O exemplo ilustra o site de apostas 1XBet, onde o design é desorganizado e prejudica a visualização das informações.
+    
+![1xbet](https://github.com/wallacefelipe21/Bertoti/assets/92696799/059059bc-2da6-43d4-be12-d29517f565ef)
+
+Diferentemente da Rivalry, que adota um design agradável e minimalista, destacando apenas as informações essenciais e oferecendo menus e botões facilmente identificáveis para orientar os usuários em suas ações.
+    
+![Rivalry](https://github.com/wallacefelipe21/Bertoti/assets/92696799/71825436-8db9-4bff-af1e-6a4d0804c78b)
 
 → [Voltar ao topo](#topo)
